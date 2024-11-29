@@ -2,5 +2,7 @@
 
 int main()
 {
+	doAllTasks();
+
 	return 0;
 }
